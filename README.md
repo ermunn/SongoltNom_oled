@@ -89,11 +89,9 @@ OLED илэрвэл Serial Monitor дээр `OLED I2C address: 0x3C` эсвэл 
 
 | Үзүүлэлт | Туршсаны дараа нөхөх мэдээлэл |
 | --- | --- |
-| ESP32 board | Яг загвар |
-| OLED module | Загвар, тэжээлийн хүчдэл |
-| Arduino IDE | Хувилбар |
-| ESP32 board package | Хувилбар |
-| U8g2 | Хувилбар |
+| ESP32 board | ESP32 DEVKIT 1 |
+| OLED module | SSD1309 |
+| Arduino IDE | Arduino IDE 2.3.10 |
 | Үр дүн | Compile, upload, Монгол үсэг, бүтэн хөдөлгөөний дараалал |
 
 ## Лиценз
