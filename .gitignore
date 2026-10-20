@@ -1,0 +1,29 @@
+# Arduino build output
+build/
+*.elf
+*.hex
+*.bin
+*.map
+*.o
+*.a
+*.d
+
+# Optional local tooling
+.pio/
+.vscode/
+.idea/
+
+# Local secrets
+.env
+.env.*
+!.env.example
+secrets.h
+arduino_secrets.h
+
+# Temporary and OS files
+*.tmp
+*.bak
+*~
+.DS_Store
+Thumbs.db
+Desktop.ini
